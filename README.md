@@ -17,5 +17,5 @@ Assignments
 
 |Forum Handle|GitHub Account|Time Zone|
 |------------|--------------|---------|
-|markfirmware|markfirmware  |-5       |
-|pjde        |pjde          |+10      |
+|markfirmware|markfirmware  |-5       | Windows |
+|pjde        |pjde-ultibo   |+10      | Windows | Note. Created new profile
