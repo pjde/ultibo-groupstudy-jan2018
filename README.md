@@ -18,3 +18,4 @@ Assignments
 |Forum Handle|GitHub Account|Time Zone|
 |------------|--------------|---------|
 |markfirmware|markfirmware  |-5       |
+|pjde        |pjde          |+10      |
