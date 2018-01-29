@@ -11,11 +11,14 @@ This work will be completed by Friday, April 27, 2018.
 
 Assignments
 -----------
-1. Fork this repo, add your info to the table below in your fork, and make a pull request
-2. Go to the forum at [Jan 2018 Semester Group Project](https://ultibo.org/forum/viewtopic.php?f=9&t=971) and help brainstorm what we will make this semester
-3. (To be determined)
+1. Set a github watch on this repo
+2. Fork this repo, add your info to the table below in your fork, and make a pull request
+3. To be able to update your fork with upstream changes, using the web browser, sign up at https://upriver.github.io
+4. Go to the forum at [Jan 2018 Semester Group Project](https://ultibo.org/forum/viewtopic.php?f=9&t=971) and help brainstorm what we will make this semester
+5. (To be determined)
 
-|Forum Handle|GitHub Account|Time Zone|
-|------------|--------------|---------|
-|markfirmware|markfirmware  |-5       | Windows |
-|pjde        |pjde-ultibo   |+10      | Windows | Note. Created new profile
+|Forum Handle|GitHub Account|Time Zone|Host Platform|
+|------------|--------------|---------|-------------|
+|markfirmware|markfirmware  |-5       |Windows      |
+|pik33       |pik33         |+1       |Raspbian     |
+|pjde        |pjde-ultibo   |+10      |Windows      |
